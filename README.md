@@ -11,7 +11,7 @@ Onedrive Directory Index mod
 4.新增导航栏+支持修改背景图
 
 ## 本站Demo
-[https://cloud.baiyue.one](https://cloud.baiyue.one)  
+[https://pan.maxne.cf](https://pan.maxne.cf)  
 
 ## 安装运行
 
